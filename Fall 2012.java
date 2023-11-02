@@ -1,3 +1,4 @@
+import java.util.*;
 public class fall2012 {
     public static void main(String[] args){
         String ourtext = "Java Programming Lesson Fall 2012";
